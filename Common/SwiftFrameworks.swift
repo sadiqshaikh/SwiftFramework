@@ -8,8 +8,8 @@
 
 import UIKit
 
-public class SwiftFrameworks {
-    public init (){
+@objc public class SwiftFrameworks : NSObject{
+    public override init (){
         println("Class has been initialised")
     }
     

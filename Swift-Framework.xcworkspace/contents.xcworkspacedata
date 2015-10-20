@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:ExampleApp"
+      name = "ExampleApp">
+      <Group
+         location = "group:ExampleApp"
+         name = "ExampleApp">
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.xib">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:ExampleApp.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:ExampleAppTests"
+         name = "ExampleAppTests">
+         <FileRef
+            location = "group:ExampleAppTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:MyFramework"
+      name = "MyFramework">
+      <Group
+         location = "group:MyFramework"
+         name = "MyFramework">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:MyFramework.h">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MyFramework.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:MyFrameworkTests"
+         name = "MyFrameworkTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:MyFrameworkTests.swift">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>

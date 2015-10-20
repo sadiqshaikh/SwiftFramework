@@ -1,6 +1,6 @@
 //
 //  MyClass.swift
-//
+//  
 //
 //  Created by Sadiq on 15/10/15.
 //
@@ -14,6 +14,6 @@ public class SwiftFrameworks {
     }
     
     public func doSomething(){
-        println("Yeah, it works")
+    println("Yeah, it works")
     }
 }
